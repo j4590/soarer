@@ -19,3 +19,9 @@ Micro SD ソケットモジュール (MCSD125A)
 ---
 http://www.aitendo.com/product/10192
 
+
+GPSモジュール
+---
+http://akizukidenshi.com/catalog/g/gM-06975/
+http://www.aitendo.com/product/10255
+
