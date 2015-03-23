@@ -1,0 +1,21 @@
+Arduino Pro/Mini(5V)
+---
+http://www.aitendo.com/product/10697
+https://www.switch-science.com/catalog/946/
+
+
+1.8TFT-LCD
+---
+http://www.amazon.co.jp/gp/product/B008HWTVQ2
+http://www.sainsmart.com/sainsmart-1-8-spi-lcd-module-with-microsd-led-backlight-for-arduino-mega-atmel-atmega.html
+
+
+RTC (M1307-12P)
+---
+http://www.aitendo.com/product/10243
+
+
+Micro SD ソケットモジュール (MCSD125A)
+---
+http://www.aitendo.com/product/10192
+
